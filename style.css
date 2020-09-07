@@ -1,0 +1,37 @@
+html {
+    background-color: #3f3f3f;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px; 
+}
+body {
+    background-color: #f9f9f9;
+}
+h1 {
+    color: darkblue;
+    margin: 20px;
+}
+h1 ~ div {
+    color: #1f1f1f;
+    font-style: italic;
+}
+h2 {
+    color: #1f1f1f;
+}
+
+.subsec {
+    
+    background-color: #e6e6e6;
+    margin: 15px;
+}
+
+.subclass-elemet{
+    color: darkblue;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.curly {
+    color: rgb(90, 88, 88);
+    font-weight: lighter;
+    font-style: italic;
+}
