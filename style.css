@@ -1,31 +1,45 @@
 html {
-    background-color: #3f3f3f;
     font-family: 'Montserrat', sans-serif;
     font-size: 16px; 
 }
 body {
-    background-color: #f9f9f9;
+    background-color: #979DAC;
 }
 h1 {
-    color: darkblue;
+    color: #001845;
     margin: 20px;
 }
+
+header{
+    background-color: #343a40;
+    min-height: 2rem;
+}
+
+.profilepic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 h1 ~ div {
-    color: #1f1f1f;
+    color: #001845;
     font-style: italic;
 }
 h2 {
-    color: #1f1f1f;
+    color: #001845;
 }
 
 .subsec {
     
-    background-color: #e6e6e6;
-    margin: 15px;
-}
+    background-color: #7D8597;
+    border: 1px solid #33415C   ;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 550px;
+    margin-left: 80px;
 
 .subclass-elemet{
-    color: darkblue;
+    color: #001845;
     font-weight: bold;
     font-size: 20px;
 }
@@ -35,3 +49,14 @@ h2 {
     font-weight: lighter;
     font-style: italic;
 }
+
+.img-responsive{
+    max-width: 100%;
+    height: auto;
+
+}
+
+.rcorners {
+    border-radius: 8px;
+  }
+  
