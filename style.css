@@ -30,6 +30,10 @@ header{
 .width-adjust{
     width: auto;
 }
+
+.add-margin{
+    margin-left: 1em;
+}
 #textuady{
     margin-left: 3em;
 
@@ -40,7 +44,19 @@ header{
 h2 {
     color: #002855;
 }
+h3 {
+    color: #053a75;
 
+}
+h4 {
+    color: #044085;
+    font-weight: lighter;
+}
+
+ul {
+    color: #001845;
+    font-weight: lighter;
+}
 
 .aboutcard {
     height: 15rem;
