@@ -25,9 +25,13 @@ header{
     max-width: 5rem;
     height: 3rem;
     width: 100%;
+
 }
-#imguady{
-    margin-left: 1em;
+.width-adjust{
+    width: auto;
+}
+#textuady{
+    margin-left: 3em;
 
 }
 #uady {
@@ -85,6 +89,7 @@ h2 {
 .subclass-elemet{
     color: #001845;
     font-weight: normal;
+    margin-left: 1em ;
 
 }
 
